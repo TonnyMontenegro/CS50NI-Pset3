@@ -1,4 +1,4 @@
-# Pset 3 CS50Xni
+# CS50Xni Pset 3: Music
 
 Implementar:
 
